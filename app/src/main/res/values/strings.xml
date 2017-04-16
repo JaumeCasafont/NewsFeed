@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="title_activity_detail">NewsFeed</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+
+    <string name="news_model_key">NewsModel</string>
+</resources>
